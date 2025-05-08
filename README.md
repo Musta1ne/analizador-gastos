@@ -1,12 +1,26 @@
-# React + Vite
+# Money Ring - Analizador de Gastos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación web moderna para el seguimiento y análisis de gastos personales.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Visualización de gastos mediante gráfico de dona interactivo
+- Sistema de autenticación de usuarios
+- Diseño responsivo y moderno
+- Interfaz de usuario intuitiva y amigable
+- Lista detallada de gastos con opciones de edición y eliminación
+- Categorización de gastos por método de pago (Débito, Crédito, Efectivo)
+- Actualización en tiempo real del gráfico al modificar gastos
 
-## Expanding the ESLint configuration
+## Tecnologías Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**: Biblioteca JavaScript para la construcción de interfaces de usuario
+- **React Router**: Manejo de navegación y rutas
+- **Chart.js**: Librería para la creación de gráficos interactivos
+- **Tailwind CSS**: Framework de CSS para el diseño y estilos
+
+## Despliegue
+
+El proyecto está desplegado en un hosting estático y se puede acceder desde la siguiente URL:
+
+[Analizador de gastos](https://analizador-gastos-five.vercel.app/)
