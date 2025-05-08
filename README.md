@@ -24,3 +24,5 @@ Una aplicación web moderna para el seguimiento y análisis de gastos personales
 El proyecto está desplegado en un hosting estático y se puede acceder desde la siguiente URL:
 
 [Analizador de gastos](https://analizador-gastos-five.vercel.app/)
+
+Link al drive con los datos del proyecto: https://drive.google.com/drive/folders/1vD7rIUZVsOg3u1hU82f9TSGEir6zsbS9?usp=sharing
