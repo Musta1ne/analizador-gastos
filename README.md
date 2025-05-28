@@ -21,7 +21,7 @@ Una aplicación web moderna para el seguimiento y análisis de gastos personales
 
 ## Despliegue
 
-El proyecto está desplegado en un hosting estático y se puede acceder desde la siguiente URL:
+El proyecto está desplegado en un hosting estático y se puede acceder desde la siguiente URL (primera y segunda iteración):
 
 [Analizador de gastos](https://analizador-gastos-five.vercel.app/)
 
